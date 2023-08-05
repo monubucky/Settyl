@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "id": 324,
+      "question": "Is there any question ?",
+      "option": [
+        "yes",
+        "no"
+      ],
+      "active": true,
+      "count": {
+        "yes": 1,
+        "no": 4
+      }
+    },
+    {
+      "id": "Fri Aug 04 2023 14:24:35 GMT+0530 (India Standard Time)",
+      "question": "hgufjfghj?",
+      "option": [
+        "yj",
+        "yu"
+      ],
+      "active": false,
+      "count": [
+        0,
+        0
+      ]
+    },
+    {
+      "id": "Fri Aug 04 2023 14:31:40 GMT+0530 (India Standard Time)",
+      "question": "Avbnjk?",
+      "option": [
+        "gh",
+        "kk"
+      ],
+      "active": true,
+      "count": {
+        "gh": 0,
+        "kk": 1
+      }
+    }
+  ]
+}
